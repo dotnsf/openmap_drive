@@ -2,7 +2,7 @@
 
 ## Overview
 
-Driving in OpenMap.
+Driving in OpenStreetMap.
 
 
 ## How to play
